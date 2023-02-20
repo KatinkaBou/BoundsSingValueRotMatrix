@@ -65,7 +65,7 @@ omit the exponent $(2)$ for clarity.
 ## `R_lattice_basis` 
 
 The generation of the basis of $R$ with respect to $\sigma_H$
-is done by the Sage function $\texttt{minkowski\_embedding}$. It
+is done by the Sage function `minkowski_embedding`. It 
 gives the basis whose columns are the $\sigma_H(\zeta^0), \ldots, \sigma_H(\zeta^{n-1})$. The definition of $\sigma_H$ in the function matches the second order described above.
 
 ## `sample_rotation_matrix`
